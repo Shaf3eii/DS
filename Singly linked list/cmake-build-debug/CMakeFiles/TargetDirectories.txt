@@ -1,0 +1,3 @@
+D:/DS Homeworks/Singly linked list/cmake-build-debug/CMakeFiles/Singly_linked_list.dir
+D:/DS Homeworks/Singly linked list/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DS Homeworks/Singly linked list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
