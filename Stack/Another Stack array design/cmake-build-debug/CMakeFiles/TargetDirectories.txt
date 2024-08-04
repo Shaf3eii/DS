@@ -1,0 +1,3 @@
+D:/DS Homeworks/Another Stack array design/cmake-build-debug/CMakeFiles/Another_Stack_array_design.dir
+D:/DS Homeworks/Another Stack array design/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DS Homeworks/Another Stack array design/cmake-build-debug/CMakeFiles/rebuild_cache.dir

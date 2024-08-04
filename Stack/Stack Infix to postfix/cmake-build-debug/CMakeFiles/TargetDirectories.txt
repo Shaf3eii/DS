@@ -1,0 +1,3 @@
+D:/DS Homeworks/Stack Infix to postfix/cmake-build-debug/CMakeFiles/Stack_Infix_to_postfix.dir
+D:/DS Homeworks/Stack Infix to postfix/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DS Homeworks/Stack Infix to postfix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

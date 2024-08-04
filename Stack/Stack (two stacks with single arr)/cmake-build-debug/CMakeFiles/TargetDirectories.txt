@@ -1,0 +1,3 @@
+D:/DS Homeworks/Stack (two stacks with single arr)/cmake-build-debug/CMakeFiles/Stack__two_stacks_with_single_arr_.dir
+D:/DS Homeworks/Stack (two stacks with single arr)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DS Homeworks/Stack (two stacks with single arr)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

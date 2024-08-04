@@ -1,0 +1,23 @@
+# ninja log v5
+0	344	7438612230672548	CMakeFiles/Stack__two_stacks_with_single_arr_.dir/main.cpp.obj	8ad8482c61470ae8
+345	413	7438612231323371	Stack__two_stacks_with_single_arr_.exe	d6d59dca82512ca3
+2	278	7438612295401292	CMakeFiles/Stack__two_stacks_with_single_arr_.dir/main.cpp.obj	8ad8482c61470ae8
+278	343	7438612296002919	Stack__two_stacks_with_single_arr_.exe	d6d59dca82512ca3
+2	400	7438612735917055	CMakeFiles/Stack__two_stacks_with_single_arr_.dir/main.cpp.obj	8ad8482c61470ae8
+400	475	7438612736656644	Stack__two_stacks_with_single_arr_.exe	d6d59dca82512ca3
+2	417	7438612890228373	CMakeFiles/Stack__two_stacks_with_single_arr_.dir/main.cpp.obj	8ad8482c61470ae8
+417	494	7438612890955731	Stack__two_stacks_with_single_arr_.exe	d6d59dca82512ca3
+2	427	7438613560169712	CMakeFiles/Stack__two_stacks_with_single_arr_.dir/main.cpp.obj	8ad8482c61470ae8
+427	492	7438613560816590	Stack__two_stacks_with_single_arr_.exe	d6d59dca82512ca3
+2	349	7438613612207133	CMakeFiles/Stack__two_stacks_with_single_arr_.dir/main.cpp.obj	8ad8482c61470ae8
+349	436	7438613613038689	Stack__two_stacks_with_single_arr_.exe	d6d59dca82512ca3
+2	333	7438613643935540	CMakeFiles/Stack__two_stacks_with_single_arr_.dir/main.cpp.obj	8ad8482c61470ae8
+333	410	7438613644678079	Stack__two_stacks_with_single_arr_.exe	d6d59dca82512ca3
+2	272	7438615041611830	CMakeFiles/Stack__two_stacks_with_single_arr_.dir/main.cpp.obj	8ad8482c61470ae8
+272	344	7438615042310309	Stack__two_stacks_with_single_arr_.exe	d6d59dca82512ca3
+2	439	7438615634869759	CMakeFiles/Stack__two_stacks_with_single_arr_.dir/main.cpp.obj	8ad8482c61470ae8
+439	505	7438615635498247	Stack__two_stacks_with_single_arr_.exe	d6d59dca82512ca3
+2	401	7438615686271747	CMakeFiles/Stack__two_stacks_with_single_arr_.dir/main.cpp.obj	8ad8482c61470ae8
+401	481	7438615687038135	Stack__two_stacks_with_single_arr_.exe	d6d59dca82512ca3
+2	430	7438615906730061	CMakeFiles/Stack__two_stacks_with_single_arr_.dir/main.cpp.obj	8ad8482c61470ae8
+431	517	7438615907570842	Stack__two_stacks_with_single_arr_.exe	d6d59dca82512ca3
