@@ -1,0 +1,3 @@
+D:/DS Homeworks/Queue/Array_Based/cmake-build-debug/CMakeFiles/Array_Based.dir
+D:/DS Homeworks/Queue/Array_Based/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DS Homeworks/Queue/Array_Based/cmake-build-debug/CMakeFiles/rebuild_cache.dir

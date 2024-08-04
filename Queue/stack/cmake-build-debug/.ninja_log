@@ -1,0 +1,7 @@
+# ninja log v5
+0	329	7444000657156651	CMakeFiles/stack.dir/main.cpp.obj	6471182bdd0e1a48
+3	337	7444000657236841	CMakeFiles/stack.dir/Stack.cpp.obj	b64fddf79c9158fe
+12	354	7444000657416658	CMakeFiles/stack.dir/Queue.cpp.obj	c725beb782ee859c
+354	477	7444000658615551	stack.exe	991683dd22491ddf
+5	350	7444001101195237	CMakeFiles/stack.dir/Stack.cpp.obj	b64fddf79c9158fe
+350	434	7444001102015425	stack.exe	991683dd22491ddf

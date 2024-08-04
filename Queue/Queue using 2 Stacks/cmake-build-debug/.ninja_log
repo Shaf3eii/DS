@@ -1,0 +1,13 @@
+# ninja log v5
+1	581	7444741873614465	build.ninja	a83b0f838be736ea
+4	1699	7444741892159256	CMakeFiles/Queue_using_2_Stacks.dir/Queue.cpp.obj	1f408c6282e3224a
+1	1701	7444741892159256	CMakeFiles/Queue_using_2_Stacks.dir/main.cpp.obj	95d755d36736adff
+7	1760	7444741892739423	CMakeFiles/Queue_using_2_Stacks.dir/Stack.cpp.obj	622fcee05608005f
+1760	2016	7444741895241162	Queue_using_2_Stacks.exe	5fe07a3bc55db9fa
+6	383	7444792457114609	CMakeFiles/Queue_using_2_Stacks.dir/Queue.cpp.obj	1f408c6282e3224a
+3	389	7444792457175316	CMakeFiles/Queue_using_2_Stacks.dir/main.cpp.obj	95d755d36736adff
+389	458	7444792457849113	Queue_using_2_Stacks.exe	5fe07a3bc55db9fa
+3	387	7444792775750959	CMakeFiles/Queue_using_2_Stacks.dir/Queue.cpp.obj	1f408c6282e3224a
+388	463	7444792776491608	Queue_using_2_Stacks.exe	5fe07a3bc55db9fa
+2	384	7444795926593802	CMakeFiles/Queue_using_2_Stacks.dir/Queue.cpp.obj	1f408c6282e3224a
+384	472	7444795927434641	Queue_using_2_Stacks.exe	5fe07a3bc55db9fa

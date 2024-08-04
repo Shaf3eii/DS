@@ -1,0 +1,3 @@
+D:/DS Homeworks/Queue/deque/cmake-build-debug/CMakeFiles/deque.dir
+D:/DS Homeworks/Queue/deque/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DS Homeworks/Queue/deque/cmake-build-debug/CMakeFiles/rebuild_cache.dir

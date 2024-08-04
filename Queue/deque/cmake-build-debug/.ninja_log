@@ -1,0 +1,6 @@
+# ninja log v5
+3	449	7443476817777379	CMakeFiles/deque.dir/main.cpp.obj	e0b072bc27ddd8bd
+3	572	7443474299163827	CMakeFiles/deque.dir/Deque.cpp.obj	f0158d527546e53e
+1	116	7444765929815382	build.ninja	dd36901751ba21e3
+449	559	7443476818833951	deque.exe	3db135a6df8f1e65
+5	593	7443475889916120	CMakeFiles/deque.dir/Single_List.cpp.obj	78632eedddebd2fb

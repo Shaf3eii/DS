@@ -1,0 +1,3 @@
+D:/DS Homeworks/Queue/Queue using 2 Stacks/cmake-build-debug/CMakeFiles/Queue_using_2_Stacks.dir
+D:/DS Homeworks/Queue/Queue using 2 Stacks/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DS Homeworks/Queue/Queue using 2 Stacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir

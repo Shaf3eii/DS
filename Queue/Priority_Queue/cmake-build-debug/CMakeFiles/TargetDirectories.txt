@@ -1,0 +1,3 @@
+D:/DS Homeworks/Queue/Priority_Queue/cmake-build-debug/CMakeFiles/Priority_Queue.dir
+D:/DS Homeworks/Queue/Priority_Queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DS Homeworks/Queue/Priority_Queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
