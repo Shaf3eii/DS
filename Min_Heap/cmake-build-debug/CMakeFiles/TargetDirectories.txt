@@ -1,0 +1,3 @@
+D:/DS Homeworks/Trees/Min_Heap/cmake-build-debug/CMakeFiles/Min_Heap.dir
+D:/DS Homeworks/Trees/Min_Heap/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DS Homeworks/Trees/Min_Heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
